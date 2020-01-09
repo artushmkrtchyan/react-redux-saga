@@ -1,0 +1,9 @@
+.loginForm {
+    max-width: 350px;
+    margin: 30px auto !important;
+    width: 100%;
+}
+
+.loginFormButton {
+    width: 100%;
+}

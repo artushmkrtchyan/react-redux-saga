@@ -1,0 +1,9 @@
+.registerForm {
+    max-width: 500px;
+    margin: 30px auto !important;
+    width: 100%;
+}
+
+.registerFormButton {
+    width: 100%;
+}
